@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "part-1": "tsc part1.ts && node part1.js && rm part1.js",
+    "part-2": "tsc part2.ts && node part2.js && rm part2.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}

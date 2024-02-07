@@ -1,0 +1,7 @@
+
+> part-1
+> tsc part1.ts && node part1.js && rm part1.js
+
+{ startX: 1, startY: 1 }
+{ distance: 4 }
+{ distance: 4 }
